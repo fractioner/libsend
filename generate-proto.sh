@@ -1,0 +1,1 @@
+yarn pbjs -t static-module -w commonjs -o ./src/ExternalerTextProtocol.js ./protos/ExternalerTextProtocol.proto
